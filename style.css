@@ -1,0 +1,229 @@
+.uno{
+	color: darkred;
+	background: yellow;
+	text-align: center;
+	border-radius: 10px;
+	width: 405px;
+}
+
+.MenuC{
+	text-align: center;
+	background: yellow;
+	border-radius: 10px;
+	width: 405px;
+}
+
+.Promociones{
+	text-align: center;
+	background: yellow;
+	border-radius: 10px;
+	width: 405px;
+}
+
+.Galeria{
+	text-align: center;
+	border-radius: 10px;
+	width: 405px;
+	background: yellow;
+}
+
+.Navegacion{
+	background: yellow;
+	border-radius: 10px;
+	width: 405px;
+}
+
+
+.letras{
+	background: yellow;
+	text-align: center;
+	width: 405px;
+}
+
+.informacion1{
+	text-align: center;
+	background: yellow;
+	width: 405px;
+}
+
+.datos{
+	text-align: right;
+	background: yellow;
+	width: 405px;
+	border-radius: 10px;
+}
+
+.informacion2{
+	text-align: center;
+	background: yellow;
+	width: 405px;
+}
+
+.centrado{
+	text-align: center;
+}
+
+.promos{
+	text-align: center;
+	background: yellow;
+	width: 405px;
+}
+
+.presiona{
+	text-align: center;
+	background: yellow;
+	width: 405px;
+}
+
+.foto1{
+	height: 105px;
+	width: 200px;
+	background: yellow;
+	border: darkred;
+	border-radius: 10px;
+}
+
+.foto2{
+	height: 105px;
+	width: 200px;
+	background: yellow;
+	border: darkred;
+	border-radius: 10px;
+}
+
+.foto3{
+	height: 105px;
+	width: 200px;
+	background: yellow;
+	border: darkred;
+	border-radius: 10px;
+}
+
+.foto4{
+	height: 105px;
+	width: 200px;
+	background: yellow;
+	border: darkred;
+	border-radius: 10px;
+}
+
+.croquis{
+	text-align: center;
+	background: yellow;
+	border-radius: 10px;
+	width: 405px;
+}
+
+.promo1{
+	background: beige;
+	border-radius: 10px;
+	width: 405px;
+}
+
+.promo2{
+	background: beige;
+	border-radius: 10px;
+	width: 405px;
+}
+
+.promo3{
+	background: beige;
+	border-radius: 10px;
+	width: 405px;
+}
+
+
+.foto5{
+	height: 105px;
+	width: 200px;
+	background: yellow;
+	border: darkred;
+	border-radius: 10px;
+}
+
+.foto6{
+	height: 105px;
+	width: 200px;
+	background: yellow;
+	border: darkred;
+	border-radius: 10px;
+}
+
+.foto7{
+	height: 105px;
+	width: 200px;
+	background: yellow;
+	border: darkred;
+	border-radius: 10px;
+}
+
+.foto8{
+	height: 105px;
+	width: 200px;
+	background: yellow;
+	border: darkred;
+	border-radius: 10px;
+}
+
+.foto9{
+	height: 105px;
+	width: 200px;
+	background: yellow;
+	border: darkred;
+	border-radius: 10px;
+}
+
+.foto10{
+	height: 105px;
+	width: 200px;
+	background: yellow;
+	border: darkred;
+	border-radius: 10px;
+}
+
+.foto11{
+	height: 105px;
+	width: 200px;
+	background: yellow;
+	border: darkred;
+	border-radius: 10px;
+}
+
+.foto12{
+	height: 105px;
+	width: 200px;
+	background: yellow;
+	border: darkred;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+.foto13{
+	height: 205px;
+	width: 400px;
+	background: yellow;
+	border: darkred;
+	border-radius: 20px;
+}
+
+.boton1{
+	background: yellow;
+	color: blue;
+}
+
+.precio{
+	background: #4CAF50;
+	border-radius: 25px;
+	color: white;
+	text-align: center;
+	width: 200px;
+}
+
+.precio1{
+	border: black;
+	background: #4CAF50;
+	border-radius: 25px;
+	color: white;
+	text-align: center;
+	width: 200px;	
+}
